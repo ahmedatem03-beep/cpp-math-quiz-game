@@ -1,0 +1,6 @@
+﻿  Project 2 Cours Number 5.cpp
+D:\Programs\C++\Project 2 Cours Number 5\Project 2 Cours Number 5\Project 2 Cours Number 5.cpp(56,1): warning C4715: 'CheckMixType': not all control paths return a value
+D:\Programs\C++\Project 2 Cours Number 5\Project 2 Cours Number 5\Project 2 Cours Number 5.cpp(76,1): warning C4715: 'CheckLevel': not all control paths return a value
+D:\Programs\C++\Project 2 Cours Number 5\Project 2 Cours Number 5\Project 2 Cours Number 5.cpp(119,1): warning C4715: 'CheckMixResult': not all control paths return a value
+D:\Programs\C++\Project 2 Cours Number 5\Project 2 Cours Number 5\Project 2 Cours Number 5.cpp(92,1): warning C4715: 'CheckType': not all control paths return a value
+  Project 2 Cours Number 5.vcxproj -> D:\Programs\C++\Project 2 Cours Number 5\x64\Debug\Project 2 Cours Number 5.exe
